@@ -1,4 +1,4 @@
-# FOBJECT RECOGNITION/ SMART REFRIGERATOR
+# OBJECT RECOGNITION/ SMART REFRIGERATOR
 CNN based food recognition using Keras in Python 
 
 Working Project on https://github.com/PMILINDA/ObjectDetection-SmartRefrigerator
